@@ -24,7 +24,7 @@ I have created a **Virtual AI Painter**, a real-time hand-tracking drawing appli
 ## Usage
 Run the application:
 ```sh
-streamlit run main.py
+streamlit run streamlit_painter.py
 ```
 Now, you can use hand gestures to draw on the virtual canvas in real-time!
 
